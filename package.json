@@ -8,8 +8,5 @@
   },
   "author": "Alexander",
   "license": "ISC",
-  "homepage": "https://github.com/AlexanderAlatorreGovea/planets#readme",
-  "dependencies": {
-    "csv-parse": "^5.3.0"
-  }
+  "homepage": "https://github.com/AlexanderAlatorreGovea/planets#readme"
 }
